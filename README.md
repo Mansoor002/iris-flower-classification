@@ -3,7 +3,7 @@
 An exploratory data analysis (EDA) and multi-class classification project using the classic **Iris dataset** to predict flower species based on sepal and petal dimensions.
 
 ## Project Files
-* **[Iris Multi-Class Flower Classification.ipynb](https://github.com/Mansoor002/iris-flower-classification/blob/main/Iris%20Multi-Class%20Flower%20Classification.ipynb)**: Jupyter Notebook containing the data analysis, visualizations, and code.
+* **[Iris Multi-Class Flower Classification.ipynb][https://github.com/Mansoor002/iris-flower-classification/blob/main/Iris%20Multi-Class%20Flower%20Classification-balance.ipynb]**: Jupyter Notebook containing the data analysis, visualizations, and code.
 * **[Iris.csv](https://github.com/Mansoor002/iris-flower-classification/blob/main/Iris.csv)**: The cleaned dataset containing 150 rows and features like sepal/petal length & width.
 
 ## Project Overview
